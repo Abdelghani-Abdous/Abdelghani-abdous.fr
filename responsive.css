@@ -1,0 +1,13 @@
+@media screen and (min-width:993px) {
+    .modal-content {
+        width: 900px
+    }
+
+    .hide-large {
+        display: none !important
+    }
+
+    .sidebar.collapse {
+        display: block !important
+    }
+}
